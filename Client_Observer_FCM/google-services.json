@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "745009511153",
+    "firebase_url": "https://fir-client-353cb.firebaseio.com",
+    "project_id": "fir-client-353cb",
+    "storage_bucket": "fir-client-353cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745009511153:android:33bfa43899d963e4",
+        "android_client_info": {
+          "package_name": "com.spala.firebaseclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745009511153-enbv2nv1n8r4jr26qc4irjl80n74uvt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV5OiBN55Us5PjykEseMBIGkzXCmfpl7w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
